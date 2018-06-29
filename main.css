@@ -62,11 +62,18 @@ footer p {
 
 
 
+#facial-work{
+  position: relative;
+  padding: 5%;
+  width: 100%;
+}
+
 
 
 
 #jumbotron-Head{
-   color: #333333; font-family: 'Bitter', serif; font-size: 50px; font-weight: normal; line-height: 54px; margin: 0 0 54px; 
+    color: #b48608; font-family: 'Bitter', serif; font-size: 500%; font-weight: normal; line-height: 54px; margin: 0 0 54px;
+   background-color: ; 
    
   }
 #desc{
